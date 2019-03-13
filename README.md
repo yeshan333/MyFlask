@@ -1,4 +1,4 @@
-# info
+# About
 
 ## 原型设计工具[https://www.mockplus.cn/](https://www.mockplus.cn/)、[https://www.axure.com/](https://www.axure.com/)
 
