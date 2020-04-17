@@ -1,6 +1,8 @@
-# About
+# 关于
 
-## 原型设计工具[https://www.mockplus.cn/](https://www.mockplus.cn/)、[https://www.axure.com/](https://www.axure.com/)
+> 留言板 Web 程序，《Flask Web开发实战：入门、进阶与原理解析（李辉著 ）》
+
+>原型设计工具[https://www.mockplus.cn/](https://www.mockplus.cn/)、[https://www.axure.com/](https://www.axure.com/)
 
 
 ## Flask-DebugToolBar调试
